@@ -1,1 +1,1 @@
-print('# [root/level1] __init__.py')
+print('& [root/level1] __init__.py')

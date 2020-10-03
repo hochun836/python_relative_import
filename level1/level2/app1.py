@@ -1,4 +1,4 @@
-print('# [root/level1/level2] app1.py')
+print('& [root/level1/level2] app1.py')
 
 print('__name__:', __name__)
 print('__package__:', __package__)

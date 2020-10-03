@@ -1,3 +1,3 @@
-print('& [root/utils] tool.py')
+print('& [utils] tool.py')
 
 name = 'chen'

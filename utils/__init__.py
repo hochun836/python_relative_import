@@ -1,1 +1,1 @@
-print('& [root/utils] __init__.py')
+print('& [utils] __init__.py')

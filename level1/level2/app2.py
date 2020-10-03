@@ -1,4 +1,4 @@
-print('& [root/level1/level2] app2.py')
+print('& [level1/level2] app2.py')
 
 import sys
 
